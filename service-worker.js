@@ -1,11 +1,10 @@
-const CACHE_NAME = 'buscador-empresas-clm-v1';
+const CACHE_NAME = 'buscador-empresas-clm-v2';
 const ASSETS = [
   './',
   './index.html',
   './app.js',
   './manifest.json',
   './data.json',
-  './cnae_map.json',
   './assets/xlsx.full.min.js',
   './assets/jspdf.umd.min.js',
   './assets/jspdf.plugin.autotable.min.js',
